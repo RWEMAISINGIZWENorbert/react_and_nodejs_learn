@@ -116,9 +116,3 @@ Students will be able to:
 - Create CRUD APIs
 - Prepare for national practical exams
 """
-
-file_path = "/mnt/data/Backend_Steps_Only_README.md"
-with open(file_path, "w") as f:
-    f.write(content)
-
-file_path
