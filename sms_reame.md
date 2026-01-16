@@ -8,7 +8,7 @@
 ---
 
 ## Project Goal
-Build a complete **full-stack School Management System** to help L5 SOD TVET students:
+Build a complete **full-stack School Management System** to help us:
 - Understand fullstack development flow
 - Practice real exam-style features
 - Apply React.js and Node.js together
